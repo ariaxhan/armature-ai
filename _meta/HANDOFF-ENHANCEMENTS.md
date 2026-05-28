@@ -11,7 +11,7 @@
 
 FunJoin is building a sales agent and needs features in `the-convergence` to reduce implementation work. These are generic, reusable features that benefit any project using convergence.
 
-**FunJoin plan:** `/Users/ariaxhan/Downloads/Vaults/CodingVault/funjoin/_meta/plans/convergence-enhancements.md`
+**FunJoin plan:** `/Users/ariaxhan/Vaults/CodingVault/funjoin/_meta/plans/convergence-enhancements.md`
 
 ---
 

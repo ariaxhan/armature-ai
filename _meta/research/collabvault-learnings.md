@@ -259,19 +259,19 @@ These remain unresolved in ARIA's research but relevant to The Convergence:
 
 ## Sources
 
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/_meta/_patterns.md`
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/_meta/_decisions.md`
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/_meta/briefs/three-agent-philosophies.md`
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/_meta/briefs/2026-02-20-agentdb-build.md`
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/_meta/reports/2026-03-03.md`
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/_meta/reports/2026-03-05.md`
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/_meta/reports/2026-03-06.md`
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/distillations/threads/agents.md` (307 lines)
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/distillations/threads/research.md` (180 lines)
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/distillations/raw/.processed/2026-03-03-agent-memory-infrastructure.md`
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/dreams/decision-trace-architecture.md`
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/dreams/context-engineering.md`
-- `/Users/ariaxhan/Downloads/Vaults/CollabVault/dreams/agent-orchestration-convergence.md`
+- `/Users/ariaxhan/Vaults/CollabVault/_meta/_patterns.md`
+- `/Users/ariaxhan/Vaults/CollabVault/_meta/_decisions.md`
+- `/Users/ariaxhan/Vaults/CollabVault/_meta/briefs/three-agent-philosophies.md`
+- `/Users/ariaxhan/Vaults/CollabVault/_meta/briefs/2026-02-20-agentdb-build.md`
+- `/Users/ariaxhan/Vaults/CollabVault/_meta/reports/2026-03-03.md`
+- `/Users/ariaxhan/Vaults/CollabVault/_meta/reports/2026-03-05.md`
+- `/Users/ariaxhan/Vaults/CollabVault/_meta/reports/2026-03-06.md`
+- `/Users/ariaxhan/Vaults/CollabVault/distillations/threads/agents.md` (307 lines)
+- `/Users/ariaxhan/Vaults/CollabVault/distillations/threads/research.md` (180 lines)
+- `/Users/ariaxhan/Vaults/CollabVault/distillations/raw/.processed/2026-03-03-agent-memory-infrastructure.md`
+- `/Users/ariaxhan/Vaults/CollabVault/dreams/decision-trace-architecture.md`
+- `/Users/ariaxhan/Vaults/CollabVault/dreams/context-engineering.md`
+- `/Users/ariaxhan/Vaults/CollabVault/dreams/agent-orchestration-convergence.md`
 
 ---
 

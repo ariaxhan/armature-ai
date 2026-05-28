@@ -216,7 +216,7 @@ Start with semantic cache (immediate 80% cost reduction). Agentic RAG is optiona
 
 ## SOURCES (FULL CITATIONS)
 
-See full research document: `/Users/ariaxhan/Downloads/Vaults/CodingVault/the-convergence/_meta/research/knowledge-retrieval-2026.md`
+See full research document: `/Users/ariaxhan/Vaults/CodingVault/the-convergence/_meta/research/knowledge-retrieval-2026.md`
 
 Key sources:
 - [GPT Semantic Cache: Reducing LLM Costs and Latency](https://arxiv.org/html/2411.05276v2)
