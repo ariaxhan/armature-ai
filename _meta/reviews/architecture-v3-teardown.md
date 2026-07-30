@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Tear Down: Architecture v3 (Research-Informed)
 
 **Reviewed:** 2026-03-12

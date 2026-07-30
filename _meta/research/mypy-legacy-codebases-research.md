@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # Mypy Best Practices for Legacy Python Codebases
 
 **Date:** 2026-03-11  

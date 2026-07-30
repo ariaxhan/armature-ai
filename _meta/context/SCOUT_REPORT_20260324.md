@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-25
+---
+
 # Scout Report: the-convergence
 **Date:** 2026-03-24
 **Status:** COMPREHENSIVE MAPPING COMPLETE

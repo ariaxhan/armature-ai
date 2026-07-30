@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Self-Learning Production Readiness — Quick Reference
 
 **One-Page Decision Guide for Your Codebase**

@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Context Snapshot: main-40201
 **Saved**: 2026-03-12T19:50:03Z
 **Trigger**: auto compact

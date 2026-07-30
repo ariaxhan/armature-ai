@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Dashboard & HITL Quick Start (One-Pager)
 
 **Use this to:** Pick a framework, implement Phase 1 HITL, integrate with Convergence RL loop.

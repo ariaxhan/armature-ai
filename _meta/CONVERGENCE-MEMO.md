@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # The Convergence: What We Have & What We're Building
 
 **Date:** 2026-03-12

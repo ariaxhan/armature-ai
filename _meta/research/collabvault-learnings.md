@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # CollabVault Learnings: Mining for The Convergence
 
 **Extracted:** 2026-03-11

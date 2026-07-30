@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Implementation Contracts — Authoritative
 
 **Date:** 2026-03-12

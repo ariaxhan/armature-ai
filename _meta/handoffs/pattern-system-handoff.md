@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # Handoff: Pattern System + Convergence Vision
 
 **Date:** 2026-03-12 (Updated)

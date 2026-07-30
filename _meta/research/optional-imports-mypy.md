@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # Optional Imports with Type Checking in Python
 
 **Status:** Researched | **Date:** 2026-03-11 | **Scope:** Mypy type-safe optional imports

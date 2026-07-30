@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Enterprise Agent Safety — Research Summary
 
 **Status:** Complete. 662-line research document with 5 critical pitfalls, framework recommendations, and 25+ sources.

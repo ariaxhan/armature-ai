@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # Regex Alternatives for Text Pattern Matching in Python
 
 **Status:** Research complete | **Context:** Convergence evaluators (confidence.py, text_quality.py, code_quality.py)

@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # FunJoin Failure Patterns: Synthesis for Self-Learning Systems
 
 **Source:** FunJoin _meta research (March 2026)

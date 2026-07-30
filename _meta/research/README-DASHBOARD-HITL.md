@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Dashboard & HITL Research Index
 
 **Status:** Complete | **Date:** 2026-03-12 | **Scope:** Production dashboards for Python ML systems

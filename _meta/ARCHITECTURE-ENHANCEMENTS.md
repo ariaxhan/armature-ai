@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # Convergence Enhancement Architecture
 
 **Version:** 0.2.0 (planned)

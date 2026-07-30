@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # The Convergence: Research-Informed Architecture v3
 
 **Date:** 2026-03-12

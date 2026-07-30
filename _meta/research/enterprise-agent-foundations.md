@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Enterprise AI Agent Safety, Guardrails, and Observability — Research 2026
 
 **Scope:** Guardrail frameworks, safety anti-patterns, agent architectures, cost control, permission management, hallucination detection.

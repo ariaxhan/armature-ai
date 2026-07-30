@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # Observability Patterns Research - Executive Summary
 
 ## Questions Answered

@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Convergence Codebase — Production Readiness Assessment
 
 **Date:** March 12, 2026  

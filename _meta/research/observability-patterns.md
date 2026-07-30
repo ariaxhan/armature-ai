@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # Observability Patterns for Text Classification & Pattern Matching Systems
 
 **Research Date:** 2026-03-11  

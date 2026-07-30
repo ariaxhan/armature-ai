@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # UNIFIED IMPLEMENTATION PLAN
 
 **Date:** 2026-03-12

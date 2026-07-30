@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # Pattern Fragility - Implementation Checklist
 
 ## Phase 1: Move Patterns to YAML Configuration (Week 1)

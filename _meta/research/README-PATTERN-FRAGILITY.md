@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # Pattern Fragility Research - Complete Guide
 
 This research addresses **fragility in hardcoded text pattern matching systems** like those used in confidence extraction (`HEDGING_PHRASES`, `CERTAINTY_PHRASES`, etc.).

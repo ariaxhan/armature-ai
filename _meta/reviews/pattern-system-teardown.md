@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # Tear Down: Pattern Matching System Redesign
 
 **Reviewed:** 2026-03-12

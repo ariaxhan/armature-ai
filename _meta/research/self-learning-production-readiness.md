@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Self-Learning Production Readiness: Battle-Tested vs Experimental (2025-2026)
 
 **Research Date:** March 2026  

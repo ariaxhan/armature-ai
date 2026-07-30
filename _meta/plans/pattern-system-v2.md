@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Pattern System v2: Research-Informed Architecture
 
 **Date:** 2026-03-11

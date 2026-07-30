@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Knowledge Retrieval, Semantic Caching & Beyond-RAG: Executive Summary
 
 **Research Completed:** March 12, 2026

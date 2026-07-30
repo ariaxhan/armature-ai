@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # RLP + SAO: Deep Dive
 
 **What they are, how they work, improvements, and novel methods to add**

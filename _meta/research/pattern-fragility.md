@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-11
+---
+
 # Pattern Fragility in Text Matching Systems
 
 **Status:** Research complete | **Date:** 2026-03-11 | **Context:** The Convergence confidence extraction

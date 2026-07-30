@@ -1,3 +1,9 @@
+---
+type: note
+status: active
+created: 2026-03-12
+---
+
 # Knowledge Retrieval, Semantic Caching & Beyond-RAG for Enterprise Agents (2026)
 
 **Research Date:** March 12, 2026
