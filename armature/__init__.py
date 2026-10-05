@@ -10,7 +10,7 @@ Usage:
     SDK: from armature import run_optimization
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 from armature.core.config import ArmatureConfig
 from armature.core.protocols import (

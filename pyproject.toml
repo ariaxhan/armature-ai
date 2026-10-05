@@ -1,6 +1,6 @@
 [project]
 name = "armature-ai"
-version = "1.0.0"
+version = "1.0.1"
 description = "Self-evolving agent framework powered by reinforcement learning, evolutionary algorithms, and self-improving policies"
 authors = [
     {name = "Aria Han", email = "ariaxhan@gmail.com"},
@@ -117,7 +117,7 @@ dev = [
 armature = "armature.cli.main:app"
 
 [project.urls]
-Homepage = "https://github.com/ariaxhan/armature-ai"
+Homepage = "https://ariaxhan.com"
 Documentation = "https://github.com/ariaxhan/armature-ai#readme"
 Repository = "https://github.com/ariaxhan/armature-ai"
 Changelog = "https://github.com/ariaxhan/armature-ai/blob/main/CHANGELOG.md"
